@@ -10,4 +10,4 @@ Colege Bachelor's degree project for automata theory of computation
 
 ### open your terminal at IDE 
 
-### typw this command: node <project name> (`node convert.js`)
+### type this command: (`node convert.js`)
