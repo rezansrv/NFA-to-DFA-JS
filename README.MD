@@ -4,10 +4,10 @@ Colege Bachelor's degree project for automata theory of computation
 
 ## start the project:
 
-### clone or download it
+### Clone or download it
 
-### import it at your IDE
+### Import it at your IDE
 
-### open your terminal at IDE 
+### Open your terminal at IDE 
 
-### type this command: (`node convert.js`)
+### Type this command: (`node convert.js`)
